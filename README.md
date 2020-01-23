@@ -1,6 +1,7 @@
 ### Prerequisites
 
-- Python 2.7
+- A Raspberry Pi running [Raspbian Buster](https://www.raspberrypi.org/downloads/raspbian/)
+- A [PaPiRus e-ink screen hat](https://uk.pi-supply.com/products/papirus-epaper-eink-screen-hat-for-raspberry-pi)
 
 ### Install dependencies
 
